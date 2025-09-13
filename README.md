@@ -71,11 +71,14 @@ The dataset is sourced from Kaggle:
 
 ## 📜 Certificates Earned  
 
-- <img src="./certificates/Journey%20to%20Cloud/journey%20to%20cloud%20ibm%20edunet%20certificate.jpg" alt="Journey to Cloud: Envisioning Your Solution" width="50%">
+- <img src="./certificates/Getting%20Started%20with%20Artificial%20Intelligence/getting%20started%20ibm%20edunet%20certificate.png" 
+       alt="Getting Started with Artificial Intelligence" width="50%">
 
-- <img src="./certificates/Getting%20Started%20with%20Artificial%20Intelligence/getting%20started%20ibm%20edunet%20certificate.jpg" alt="Getting Started with Artificial Intelligence" width="50%">
+- <img src="./certificates/Journey%20to%20Cloud/journey%20to%20cloud%20ibm%20edunet%20certificate.png" 
+       alt="Journey to Cloud: Envisioning Your Solution" width="50%">
 
-- <img src="./certificates/Lab%20Retrieval%20Augmented%20Generation/RAG%20lab%20ibm%20edunet%20certificate.jpg" alt="Lab Retrieval Augmented Generation" width="50%">
+- <img src="./certificates/Lab%20Retrieval%20Augmented%20Generation/RAG%20lab%20ibm%20edunet%20certificate.png" 
+       alt="Lab Retrieval Augmented Generation" width="50%">
 
 
 ---
@@ -92,6 +95,18 @@ The dataset is sourced from Kaggle:
 - **AICTE Edunet Foundation - IBM SkillsBuild Internship**  
 - Kaggle Dataset – Power System Faults  
 - IBM Cloud Lite Documentation  
+
+---
+## 📸 Project Images
+
+<p align="center">
+  <img src="https://github.com/its-AmitB/IBM-ML-Project/blob/main/project-info/images%20of%20Project/edunet%20project%20img1.png?raw=true" alt="Project Image 1" width="45%">
+  <img src="https://github.com/its-AmitB/IBM-ML-Project/blob/main/project-info/images%20of%20Project/edunet%20project%20img3.png?raw=true" alt="Project Image 3" width="45%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/its-AmitB/IBM-ML-Project/blob/main/project-info/images%20of%20Project/edunet%20project%20img4.png?raw=true" alt="Project Image 4" width="45%">
+</p>
 
 ---
 
